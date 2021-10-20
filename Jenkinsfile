@@ -1,4 +1,4 @@
-library identifier: 'shared_libs_tag_demo@v2.0',
+library identifier: 'shared_libs_tag_demo@v12.0',
     retriever: modernSCM([
       $class: 'GitSCMSource',
       // remote: 'https://github.com/suman2826/jenkins-shared-libs.git'
